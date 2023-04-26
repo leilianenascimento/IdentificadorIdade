@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(43, 173, 173);
+    font: normal 15pt arial;
+  text-align: center;
+font-family: 'Poppins', sem serifa;
+    }
+
+section{
+background: white;
+padding:15px;
+border-radius: 10px;
+width: 500px;
+text-align: center;
+margin: auto;
+box-shadow: 5px 5px 10px;
+} 
+
+
+header{
+text-align: center;
+color: aliceblue;
+}   
+
+footer{
+text-align: center;
+font-style: italic;
+color: aliceblue;
+}
+
+img{
+ width: 300px;
+ border-radius: 30%;
+ padding: 5px;
+ box-shadow: 5px 5px 10px;
+}
+h1 {
+    background-color: rgb(16, 83, 103);
+    color: rgb(255, 255, 255);
+    border-radius: 15px;
+    width: 500px;
+    margin:auto;
+    padding: 5px;
+}
